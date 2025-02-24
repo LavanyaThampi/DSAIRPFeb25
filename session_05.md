@@ -40,8 +40,10 @@ AI has experienced periods of optimism and setbacks known as "AI winters".
 It refers to periods in the history of artificial intelligence research when progress slowed down significantly, and enthusiasm for AI waned due to unmet expectations, lack of funding, and failures in achieving the ambitious goals set by researchers.
 i) In the early years of AI research, there was significant excitement about the potential of AI, but by the mid-1970s, progress began to slow down.
 ii)After a brief period of optimism in the 1980s, particularly around expert systems, the limitations of AI became apparent. Many of the systems were expensive and inflexible.
+
 Causes of AI Winter:-
 Overhyped Expectations, Technological Limitations, Lack of Generalisation.
+
 Recovery:-
 AI winters were followed by periods of renewal and growth as new techniques, like machine learning, deep learning, and better hardware (e.g., GPUs), helped overcome previous limitations. The rise of big data, advancements in computational power, and the development of more efficient algorithms in the 2000s contributed to the resurgence of AI.
 Today, AI is experiencing rapid growth, driven by innovations in machine learning, neural networks, and natural language processing.
