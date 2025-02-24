@@ -98,7 +98,14 @@ DeepSeek publishes its methods and makes its models available to researchers.
 9. Cybersecurity
 
 ## Correlation Vs. Causation
-
+Correlation:-
+AI can readily identify patterns and relationships between data points, showing a correlation between variables, but this doesn't necessarily mean one variable is causing the other. 
+Causation:-
+AI needs more advanced techniques to analyze the "why" behind the relationship, allowing it to determine which variable is actually influencing the other. 
 
 ## Ethics in AI
-
+1. Bias and Fairness
+2. Privacy
+3. Accountability
+4. Job displacement
+5. Safety and security
