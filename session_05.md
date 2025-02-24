@@ -22,26 +22,81 @@ ix) 2020-> AI became increasingly integrated into daily life with applications i
 Advances in transformer models, like GPT-3 and BERT, allowed for more advanced language understanding and generation.
 ### Perceptron
 Perceptron is a type of linear classifier used for binary classification tasks. It will classify input data into one of two possible classes.
+
 Structure of Perceptron:-
 Input layer: The perceptron receives the input features like data points.
 Weights: Each input has an associated weight that determines its importance.
 Activation function: After the weighted sum of inputs is calculated, an activation function is used to produce the output.
+
 Limitations:-
 A single perceptron can only solve linearly separable problems i.e,problems where the two classes can be separated by a straight line or hyperplane, It cannot handle more complex patterns or non-linear separations.
+
 ### Backpropagation
+The backpropagation algorithm in neural networks to  allowing systems to learn from data and improve over time.
+It is a technique used to optimize the weights of a neural network by reducing the difference between the predicted output and the actual target output. The algorithm calculates the gradient of the loss function for each weight in the network and then modifies the weights to minimize the error.
+
 ### AI Winter
+AI has experienced periods of optimism and setbacks known as "AI winters".
+It refers to periods in the history of artificial intelligence research when progress slowed down significantly, and enthusiasm for AI waned due to unmet expectations, lack of funding, and failures in achieving the ambitious goals set by researchers.
+i) In the early years of AI research, there was significant excitement about the potential of AI, but by the mid-1970s, progress began to slow down.
+ii)After a brief period of optimism in the 1980s, particularly around expert systems, the limitations of AI became apparent. Many of the systems were expensive and inflexible.
+Causes of AI Winter:-
+Overhyped Expectations, Technological Limitations, Lack of Generalisation.
+Recovery:-
+AI winters were followed by periods of renewal and growth as new techniques, like machine learning, deep learning, and better hardware (e.g., GPUs), helped overcome previous limitations. The rise of big data, advancements in computational power, and the development of more efficient algorithms in the 2000s contributed to the resurgence of AI.
+Today, AI is experiencing rapid growth, driven by innovations in machine learning, neural networks, and natural language processing.
+
 ### DARPA Grand Challenge 2005
+It was a landmark event in autonomous vehicle development, organized by the Defense Advanced Research Projects Agency (DARPA).
+It was designed to push the boundaries of autonomous driving technologies, challenging teams to build self-driving vehicles capable of navigating a complex off-road course without human intervention.
+
 ### ImageNet 2012
+ImageNet is a publicly-available large-scale database with annotated images, composed to be used in multiple computer vision tasks.
+It refers to the dataset used in the 2012 ImageNet Large Scale Visual Recognition Challenge (ILSVRC), a benchmark competition for image classification where algorithms are tasked with identifying objects within images across a wide range of categories.
+
+Keypoints:-
+Large scale: It contains a vast number of images across various categories, enabling training of robust image recognition models. 
+WordNet hierarchy: Images are organized based on the WordNet system, allowing for semantic relationships between different object classes. 
+AlexNet breakthrough: The 2012 ImageNet challenge saw a significant performance leap with the introduction of AlexNet, a convolutional neural network architecture, which significantly boosted interest in deep learning. 
+
 ### 2024 Nobel Prize in Physics
+John J. Hopfield and Geoffrey E. Hinton for their foundational discoveries and inventions that enable machine learning with artificial neural networks.
+
 ### Deepseek
+DeepSeek is a Chinese artificial intelligence (AI) company.It's known for its open-source AI models that compete with those from OpenAI, but at a lower cost. 
+DeepSeek models can generate human-like responses, help with coding, and solve problems.
+DeepSeek models are available through a web interface, mobile app, and API access. 
+DeepSeek publishes its methods and makes its models available to researchers.
+
 ## Key Deciding Factors of Growth of AI
+1. Data Availability
+2. Advancements of Algorithm(Machine learning and Deep learning)
+3. Compuutational Power
+4. Research and development investment
+5. Industry adoption
+6. Cloud computing
+7. Coonsumer and business trust
+
 ## Data Science, Machine Learning and Artificial Intelligence
 -Data Science is the process of collecting, analyzing, and interpreting vast amounts of data to help inform decisions. It combines a variety of fields, like statistics, computer science, and domain expertise, to extract meaningful insights from data.
 
 -Machine Learning is a subset of Artificial Intelligence (AI) that focuses on algorithms that allow computers to learn from and make predictions or decisions based on data. A machine learning model enhances its performance by learning from data, Rather than being directly programmed to carry out particular tasks.
 
 -Artificial Intelligence is the broad field of creating systems that can perform tasks that normally require human intelligence. These tasks can include things like understanding natural language, recognizing images, making decisions, or playing games. AI encompasses multiple technologies, including Machine Learning.
+
 ## Data Science Application Domains
+1. Finance
+2. Health care
+3. Transportation
+4. Retail and E-commerce
+5. Sports Analytics
+6. Education
+7. Govt and public sectors
+8. Telecommunications
+9. Cybersecurity
+
 ## Correlation Vs. Causation
+
+
 ## Ethics in AI
 
