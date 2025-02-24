@@ -24,6 +24,12 @@ jupyter notebook
 # Python Data Types
 ## Numeric Type
 ### Integer
+Represents integer numbers(whole numbers)
+eg:- 
+year = 2025
+print(year)
+output
+2025
 ### Float
 ### Complex
 
