@@ -25,11 +25,11 @@ jupyter notebook
 ## Numeric Type
 ### Integer
 Represents integer numbers(whole numbers)
-eg:- 
-year = 2025
-print(year)
-output
-2025
+#eg:- 
+#year = 2025
+#print(year)
+#output
+#2025
 
 ### Float
 Represents decimal number
