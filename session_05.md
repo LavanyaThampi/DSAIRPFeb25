@@ -6,16 +6,16 @@ An example of AI is a virtual assistant like Siri or Alexa.
 -Artifficial General Intelligence aims to perform any intellectual task that a human can do. It has the ability to plan, solve complex problems, and adapt to new situations, with general learning capabilities across multiple domains.
 -eg: self driving car
 ## History of Artificial Intelligence
-i) 1940-1950-> Alan Turing -> proposed the concept of a machine that could simulate any human intelligence, which became known as the Turing Machine. Also introduced the Turing Test, a method to determine if a machine could exhibit intelligent behavior.
-ii) 1950->John McCarthy, Marvin Minsky, Nathaniel Rochester, and others coined the term "Artificial Intelligence".
-iii) 1956-> Birth of AI
-iv) 1960-1970-> ELIZA -a chatbot created by Joseph Weizenbaum and SHRDLU - a program that could understand simple commands in a block world.
-v) 1980-> The backpropagation algorithm in neural networks to  allowing systems to learn from data and improve over time.
-vi) 1990-> IBM developed Deep Blue.
-vii) 2000-> Machine learning algorithms became more sophisticated, with the rise of support vector machines and decision trees.
+1) 1940-1950-> Alan Turing -> proposed the concept of a machine that could simulate any human intelligence, which became known as the Turing Machine. Also introduced the Turing Test, a method to determine if a machine could exhibit intelligent behavior.
+2) 1950->John McCarthy, Marvin Minsky, Nathaniel Rochester, and others coined the term "Artificial Intelligence".
+3) 1956-> Birth of AI
+4) 1960-1970-> ELIZA -a chatbot created by Joseph Weizenbaum and SHRDLU - a program that could understand simple commands in a block world.
+5) 1980-> The backpropagation algorithm in neural networks to  allowing systems to learn from data and improve over time.
+6) 1990-> IBM developed Deep Blue.
+7) 2000-> Machine learning algorithms became more sophisticated, with the rise of support vector machines and decision trees.
 Companies like Google, Facebook, and Amazon began using AI to improve services like search, recommendations, and advertisements.
-viii) 2010-> Development of Deep Learning.
-ix) 2020-> AI became increasingly integrated into daily life with applications in autonomous vehicles, healthcare, robotics, finance, entertainment, education and more.
+8) 2010-> Development of Deep Learning.
+9) 2020-> AI became increasingly integrated into daily life with applications in autonomous vehicles, healthcare, robotics, finance, entertainment, education and more.
 Advances in transformer models, like GPT-3 and BERT, allowed for more advanced language understanding and generation.
 ### Perceptron
 Perceptron is a type of linear classifier used for binary classification tasks. It will classify input data into one of two possible classes.
@@ -44,9 +44,7 @@ Causes of AI Winter:-
 Overhyped Expectations, Technological Limitations, Lack of Generalisation.
 
 Recovery:-
-AI winters were followed by periods of renewal and growth as new techniques, like machine learning, deep learning, and better hardware (e.g., GPUs), helped overcome previous limitations. The rise of big data, advancements in computational power, and the development of more efficient algorithms in the 2000s contributed to the resurgence of AI.
-Today, AI is experiencing rapid growth, driven by innovations in machine learning, neural networks, and natural language processing.
-
+AI winters were followed by periods of renewal and growth as new techniques, like machine learning, deep learning, and better hardware (e.g., GPUs), helped overcome previous limitations. 
 ### DARPA Grand Challenge 2005
 It was a landmark event in autonomous vehicle development, organized by the Defense Advanced Research Projects Agency (DARPA).
 It was designed to push the boundaries of autonomous driving technologies, challenging teams to build self-driving vehicles capable of navigating a complex off-road course without human intervention.
