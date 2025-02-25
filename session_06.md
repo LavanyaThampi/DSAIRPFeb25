@@ -189,3 +189,5 @@ eg:
 -1 == True
 output
 False
+
+![image](https://github.com/user-attachments/assets/97d4b084-169b-484a-b742-8710a3bc09b3)
