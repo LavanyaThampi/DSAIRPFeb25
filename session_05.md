@@ -68,13 +68,9 @@ DeepSeek models are available through a web interface, mobile app, and API acces
 DeepSeek publishes its methods and makes its models available to researchers.
 
 ## Key Deciding Factors of Growth of AI
-1. Data Availability
-2. Advancements of Algorithm(Machine learning and Deep learning)
-3. Compuutational Power
-4. Research and development investment
-5. Industry adoption
-6. Cloud computing
-7. Coonsumer and business trust
+1. Huge amount of data.
+2. Computing power
+3. Algorithmic Improvements.
 
 ## Data Science, Machine Learning and Artificial Intelligence
 -Data Science is the process of collecting, analyzing, and interpreting vast amounts of data to help inform decisions. It combines a variety of fields, like statistics, computer science, and domain expertise, to extract meaningful insights from data.
