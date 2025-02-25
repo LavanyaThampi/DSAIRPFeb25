@@ -1,10 +1,7 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
 -Artificial Intelligence is the broad field of creating systems that can perform tasks that normally require human intelligence. These tasks can include things like understanding natural language, recognizing images, making decisions, or playing games. AI encompasses multiple technologies, including Machine Learning.
--AI systems are created to imitate human cognitive abilities, such as reasoning and perception, and can be utilized across different industries like healthcare, finance, entertainment, and others.
 An example of AI is a virtual assistant like Siri or Alexa.
--These AI systems can understand spoken language, interpret instructions, and carry out tasks like setting reminders, playing music, or answering questions. They utilize natural language processing and machine learning to enhance their ability to recognize speech patterns and provide more accurate responses as they learn.
--It refers to a type of AI that can understand, learn, and apply knowledge across a wide range of tasks, much like a human. 
 ## Artificial General Intelligence
 -Artifficial General Intelligence aims to perform any intellectual task that a human can do. It has the ability to plan, solve complex problems, and adapt to new situations, with general learning capabilities across multiple domains.
 -eg: self driving car
@@ -22,6 +19,8 @@ ix) 2020-> AI became increasingly integrated into daily life with applications i
 Advances in transformer models, like GPT-3 and BERT, allowed for more advanced language understanding and generation.
 ### Perceptron
 Perceptron is a type of linear classifier used for binary classification tasks. It will classify input data into one of two possible classes.
+![image](https://github.com/user-attachments/assets/900994bf-d547-4a9a-a10e-bb5ac23e8131)
+
 
 Structure of Perceptron:-
 Input layer: The perceptron receives the input features like data points.
