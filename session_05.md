@@ -94,7 +94,7 @@ DeepSeek publishes its methods and makes its models available to researchers.
 Correlation:-
 AI can readily identify patterns and relationships between data points, showing a correlation between variables, but this doesn't necessarily mean one variable is causing the other. 
 Causation:-
-AI needs more advanced techniques to analyze the "why" behind the relationship, allowing it to determine which variable is actually influencing the other. 
+AI needs more advanced techniques to analyze the why behind the relationship, allowing it to determine which variable is actually influencing the other. 
 
 ## Ethics in AI
 1. Bias and Fairness
