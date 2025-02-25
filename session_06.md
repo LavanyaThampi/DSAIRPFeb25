@@ -25,7 +25,7 @@ jupyter notebook
 ## Numeric Type
 ### Integer
 Represents integer numbers(whole numbers)
-1. eg
+eg:
 year = 2025
 print(year)
 output
@@ -33,7 +33,7 @@ output
 
 ### Float
 Represents decimal number
-2.eg:-
+eg:-
 bank_interest = 7.5
 print(bank_interest)
 output
@@ -41,7 +41,7 @@ output
 
 ### Complex
 Represents complex numbers, which consists of real and imaginary.
-3.eg:
+eg:
 c=3+8j
 print(c)
 outpput
@@ -50,7 +50,7 @@ outpput
 ## Text Type
 ### String
 Represents a string which is sequential characters
-4.eg:-
+eg:-
 Ïnstitute = "ICT"
 print (Institute)
 output
@@ -59,25 +59,25 @@ ICT
 ## Sequence Type
 ### List
 Represnets a mutable sequence of elements(ordered collections)
-5.eg i):
+eg 1:
 digits = [0, 1, 2, 3]
 len(digits)
 output
 4
-6. eg ii).:
+eg 2).:
 grocery = ["Apple", 5, "Orange"]
 grocery[2]
 output
 Orange
-7. eg iii) :
+eg 3) :
 grocery[-1]
 output
 Orange
-8. eg iv).:
+eg 4).:
 grocery[-2]
 output
 5
-eg 5.:
+eg 5):
 grocery[0]
 output
 Apple
