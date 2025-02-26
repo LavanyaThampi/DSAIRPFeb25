@@ -235,7 +235,6 @@ output
 
 ### Exponent
 eg:
-eg:
 a = 9
 b = 3
 c = a**b
@@ -254,19 +253,148 @@ output
 
 ### Assignment Operator
 ## Comparison Operator
-### >
-### <
-### >=
-### <=
-### ==
-### !=
+These operators are used to compare two values and return a boolean result True or False.
+### > - Greater than
+eg:
+a = 10
+b = 7
+print (x>y)
+output
+True
+
+eg
+a = 5
+b = 9
+print(x>y)
+output
+False
+
+### < - Less than
+eg:
+a = 5
+b = 9
+print(x<y)
+output
+True
+
+### >= - Greater than equal to
+eg:
+a = 5
+b = 9
+print(a>=b)
+output
+False
+
+### <= - Less than or equal to
+eg:
+a = 5
+b = 9
+print(a<=b)
+output
+True
+
+### == - Eqaul to
+eg:
+a = 7
+b = 9
+print(a==y)
+output
+False
+
+eg:
+a = 8
+b = 8
+print(a==b)
+output
+True
+
+### != - Not equal to
+eg:
+a = 12
+b = 8
+print(a!=b)
+output
+True
+
 ## Logical Operators
-### AND
-### OR
-### NOT
+These operators are used to combine conditional statements.
+### AND - Returns True if both statements are true
+eg:
+print(True and True)
+output
+True
+
+### OR - Returns True if at least one of the statements is true
+eg:
+print (True or False)
+output
+True
+
+eg:
+print (False or True)
+output
+True
+
+### NOT -  Reverses the result if the result is true, it becomes false
+eg:
+print (not True)
+Outpuut
+False
+
 ### Membership Operator
+These are used to test if a value is a member of a sequence
 ### IN
+Returns True if the value is found in the sequence
+eg:
+x = [1, 2, 3, 4, 5, 6, 7]
+print(4 in x)
+output
+True
+
+eg:
+x = [1, 2, 3, 4, 5, 6, 7]
+print(8 in x)
+output
+False
+
 ### NOT IN
+Returns True if the value is not found in the sequence
+eg:
+x = [1, 2, 3, 4, 5, 6, 7]
+print(8 not in x)
+output
+True
+
 ### Identity Operator
+These are used to compare the memory locations of two objects.
 ### is
+Returns True if both variables point to the same object.
+eg:
+a=10
+b=10
+print(a is b)
+output
+True
+
+eg:
+a=10
+b=12
+print(a is b)
+output
+False
+
 ### is not
+Returns True if both variables do not point to the same object.
+eg:
+a=10
+b=10
+print(a is not b)
+output
+False
+
+eg:
+a=10
+b=12
+print(a is not  b)
+output
+True
