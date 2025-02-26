@@ -6,8 +6,8 @@ eg:
 x = 10
 if x>5:
       print("x is greater than 5")
-output
-x is greater than 5
+### output
+#### x is greater than 5
 
 ### IF
 This check a condition, and iff its true, the intended code block under it will be executed.
