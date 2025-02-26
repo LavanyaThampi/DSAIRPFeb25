@@ -318,13 +318,15 @@ True
 
 ## Logical Operators
 These operators are used to combine conditional statements.
-### AND - Returns True if both statements are true
+### AND
+Returns True if both statements are true.
 eg:
 print(True and True)
 output
 True
 
-### OR - Returns True if at least one of the statements is true
+### OR
+Returns True if at least one of the statements is true.
 eg:
 print (True or False)
 output
@@ -335,16 +337,17 @@ print (False or True)
 output
 True
 
-### NOT -  Reverses the result if the result is true, it becomes false
+### NOT
+Reverses the result if the result is true, it becomes false.
 eg:
 print (not True)
 Outpuut
 False
 
 ### Membership Operator
-These are used to test if a value is a member of a sequence
+These are used to test if a value is a member of a sequence.
 ### IN
-Returns True if the value is found in the sequence
+Returns True if the value is found in the sequence.
 eg:
 x = [1, 2, 3, 4, 5, 6, 7]
 print(4 in x)
@@ -358,7 +361,7 @@ output
 False
 
 ### NOT IN
-Returns True if the value is not found in the sequence
+Returns True if the value is not found in the sequence.
 eg:
 x = [1, 2, 3, 4, 5, 6, 7]
 print(8 not in x)
