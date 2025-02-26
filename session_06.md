@@ -200,21 +200,21 @@ False
 ### Modulous
 ### Exponent
 ### Floor Division
-###Assignment Operator
-##Comparison Operator
-###>
-###<
-###>=
-###<=
-###==
-###!=
-##Logical Operators
-###AND
-###OR
-###NOT
-###Membership Operator
-###IN
-###NOT IN
-###Identity Operator
-###is
-###is not
+### Assignment Operator
+##C omparison Operator
+### >
+### <
+### >=
+### <=
+### ==
+### !=
+## Logical Operators
+### AND
+### OR
+### NOT
+### Membership Operator
+### IN
+### NOT IN
+### Identity Operator
+### is
+### is not
