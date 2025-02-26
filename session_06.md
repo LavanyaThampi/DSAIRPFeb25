@@ -251,8 +251,8 @@ print (c)
 output
 6
 
-### Assignment Operator
-## Comparison Operator
+## Assignment Operator
+### Comparison Operator
 These operators are used to compare two values and return a boolean result True or False.
 ### > - Greater than
 eg:
