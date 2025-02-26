@@ -191,8 +191,8 @@ output
 False
 
 
-Operators in Python
-Arithmetic Operators
+# Operators in Python
+## Arithmetic Operators
 Addition
 Subtraction
 Multiplication
