@@ -344,7 +344,7 @@ print (not True)
 Outpuut
 False
 
-### Membership Operator
+## Membership Operator
 These are used to test if a value is a member of a sequence.
 ### IN
 Returns True if the value is found in the sequence.
@@ -368,7 +368,7 @@ print(8 not in x)
 output
 True
 
-### Identity Operator
+## Identity Operator
 These are used to compare the memory locations of two objects.
 ### is
 Returns True if both variables point to the same object.
