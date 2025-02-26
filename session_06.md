@@ -194,14 +194,66 @@ False
 # Operators in Python
 ## Arithmetic Operators
 ### Addition
+eg:
+x = 3
+y = 4
+print (x+y)
+output
+7
+
 ### Subtraction
+eg:
+x = 11
+y = 5
+print (x-y)
+output
+6
+
 ### Multiplication
+eg:
+x = 7
+y = 9
+print(x*y)
+output
+63
+
 ### Division
+eg:
+x = 3.0
+y = 3
+print(x/y)
+output
+1.0
+
 ### Modulous
+eg:
+x = 9
+y = 2
+print(x%y)
+output
+1
+
 ### Exponent
+eg:
+eg:
+a = 9
+b = 3
+c = a**b
+print(c)
+output
+729
+
 ### Floor Division
+eg:
+a =13
+b = 2
+c = a//b
+print (c)
+output
+6
+
 ### Assignment Operator
-##C omparison Operator
+## Comparison Operator
 ### >
 ### <
 ### >=
