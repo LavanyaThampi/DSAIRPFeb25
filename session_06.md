@@ -193,13 +193,13 @@ False
 
 # Operators in Python
 ## Arithmetic Operators
-###Addition
-###Subtraction
-###Multiplication
-###Division
-###Modulous
-###Exponent
-###Floor Division
+### Addition
+### Subtraction
+### Multiplication
+### Division
+### Modulous
+### Exponent
+### Floor Division
 ###Assignment Operator
 ##Comparison Operator
 ###>
