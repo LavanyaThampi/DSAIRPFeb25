@@ -333,11 +333,13 @@ dir (list)
  'zfill']
  
  ### File Handling Function
- with open("chsl.txt", "r") as f:
+eg:
+with open("chsl.txt", "r") as f:
   data =f.readlines()[0]
 print(data)
 https://youtu.be/O6glUoDcKR0?feature=shared current affairs
 
+eg:
 with open("sample.txt", "w") as f:
   f.write("Hello, world!")
 
@@ -348,9 +350,176 @@ print(data)
 ['Hello, world!']
 
 
-
-
- 
-
-
 ## Custom Functions
+###Simple Function (No Parameters, No Return)
+eg:
+def greet():
+
+  print('Hello world!')
+greet()
+output
+Hello world!
+
+### def and calling fns
+eg:
+def add_numbers():
+  a = 10
+  b = 20
+  print("sum:", a+b)
+add_numbers()
+output
+sum: 30
+
+eg:
+def welcome_message():
+ print('Welcome to python functions!')
+welcome_message()
+output
+Welcome to python functions!
+
+eg:
+def square_numbers():
+  a = 10
+  print("square:",a**2)
+square_numbers()
+output
+square: 100
+
+### function arguments
+functions can take parameters to perform operations on inputs.
+eg:
+def add(a, b, c):
+  print("sum:", a+b+c)
+add(5, 3, 7)
+output
+sum: 15
+
+eg:
+def sub(a, b, c):
+  print("sum:", a-b-c)
+sub(5, 3, 7)
+output
+sum: -5
+
+#key arguments and default arguments
+
+eg:
+def greet(name="Guest"):
+  print(f"Hello, {name}!")
+#greet()
+greet("lavz")
+output
+Hello, lavz!
+
+eg:
+def greet(name="Guest"):
+  print(f"Hello", name)
+greet()
+output
+Hello Guest
+
+eg:
+def greet(name="Guest"):
+  print(f"Hello", name)
+greet("lavz")
+output
+Hello lavz
+
+eg:
+def multiply(a, b):
+  print("multiple:", a*b)
+multiply(5, 3)
+output
+multiple: 15
+
+eg:
+def multiply(a=1, b=1):
+  print("multiple:", a*b)
+multiply()
+output
+multiple: 1
+
+### Retrun values
+A function can return a value using the keyword
+eg:
+def add(a, b):
+  return a+b
+result = add(4, 6)
+print("Result:", result)
+output
+Result: 10
+
+eg:
+def add(a, b):
+  print( a+b)
+result = add(4, 6)
+print("Result:", result)
+output
+10
+Result: None
+
+eg:
+def arithemetic(a, b):
+  return a+b, a-b, a*b, a/b
+result = arithemetic(10, 5)
+print("Result:", result)
+output
+Result: (15, 5, 50, 2.0)
+
+eg:
+def arithemetic(a, b):
+  return a+b, a-b, a*b, a/b
+tsum, tdiff, tmul, tdiv = arithemetic(10, 5)
+print(tsum, tdiff, tmul, tdiv)
+output
+15 5 50 2.0
+
+### scope of variable
+Local - variables exist inside a function
+global - variables exist outside all functions
+eg:
+x = 10
+def my_func():
+ x=5
+ print("Inside function", x)
+my_func()
+print("outside function", x)
+output
+Inside function 5
+outside function 10
+
+eg:
+def add_num(a, b):
+  """ this function adds two numbers """
+  sum = a+b
+  return sum
+add_num(4, 6)
+output
+10
+
+eg:
+print(add_num.__doc__)
+output
+ this function adds two numbers 
+
+eg:
+def print_args(*kwargs):
+  for item in kwargs:
+   print(item)
+print_args("hi", "hello", "bye")
+output
+hi
+hello
+bye
+
+eg:
+def print_args(*kwargs):
+  for item in kwargs:
+   print(item)
+print_args("hi", "how r u")
+output
+hi
+how r u
+
+
+
