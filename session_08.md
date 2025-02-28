@@ -497,6 +497,7 @@ add_num(4, 6)
 output
 10
 
+### Docstrings
 eg:
 print(add_num.__doc__)
 output
