@@ -129,6 +129,13 @@ A histogram is a graphical representation of the distribution of a dataset. It i
 ![image](https://github.com/user-attachments/assets/e772eb96-4437-4caf-82cb-44b94e3ef7fb)
 
 # Probability density function and cumulative density function
+1. PDF gives the probability of a specific value occurring (in terms of an infinitesimally small range around that value).
+2. CDF gives the probability that the random variable is less than or equal to a certain value.
+3. PDF is used to describe the relative likelihood of different outcomes.
+4. CDF is used to describe the cumulative probability up to a certain point.
+   
 # Box plot
+A box plot (also known as a box-and-whisker plot) is a graphical representation of the distribution of a dataset. It shows the median, quartiles, and outliers, giving a good summary of the data spread.
+![image](https://github.com/user-attachments/assets/11fe1c5e-fe39-4927-aac4-285ce8460b5c)
 
   
