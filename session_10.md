@@ -28,9 +28,11 @@ Quartiles divide the data into four equal parts:
 2. Q2 (Second Quartile): The median of the entire data set (50th percentile).
 3. Q3 (Third Quartile): The median of the upper half of the data (75th percentile).
 
+![image](https://github.com/user-attachments/assets/81d016d4-6f22-40e6-9bbf-83c7bda860e5)
+
 1,2,3,4,5,6,7,8,9,10
 
-Q1 = 3
+Q1 = 3 
 Q2 = 5.5
 Q3 = 8
 
@@ -48,3 +50,7 @@ Eg:
 The maximum (max) is the largest value in a data set.
 eg:
 2,4,6,8, the max is 8.
+
+### Qs:
+![image](https://github.com/user-attachments/assets/0b672535-6533-4cca-b79a-28b06c1607b8)
+
