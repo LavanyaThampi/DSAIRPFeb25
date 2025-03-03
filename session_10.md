@@ -127,6 +127,8 @@ A scatter plot is a graphical representation of the relationship between two var
 A histogram is a graphical representation of the distribution of a dataset. It is a type of bar chart that groups data into bins (intervals) and shows the frequency (or count) of data points within each bin. Histograms are commonly used in statistics to visualize the shape, spread, and central tendency of continuous data.
 
 ![image](https://github.com/user-attachments/assets/e772eb96-4437-4caf-82cb-44b94e3ef7fb)
+![image](https://github.com/user-attachments/assets/b67efd2f-a82c-4007-9332-7304d682f0e7)
+
 
 # Probability density function and cumulative density function
 1. PDF gives the probability of a specific value occurring (in terms of an infinitesimally small range around that value).
@@ -137,5 +139,6 @@ A histogram is a graphical representation of the distribution of a dataset. It i
 # Box plot
 A box plot (also known as a box-and-whisker plot) is a graphical representation of the distribution of a dataset. It shows the median, quartiles, and outliers, giving a good summary of the data spread.
 ![image](https://github.com/user-attachments/assets/11fe1c5e-fe39-4927-aac4-285ce8460b5c)
+![image](https://github.com/user-attachments/assets/dae05eeb-754c-4570-9d6d-83391601089d)
 
   
