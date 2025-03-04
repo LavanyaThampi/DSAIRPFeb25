@@ -44,6 +44,7 @@ n= sample size
 7. There are one-tailed and two-tailed tests
 ## Z-test Practice Problem
 A particular companies chocolate bars are supposed to have an average weight of 50 grams according to the maufacturer. We want to test if a sample of chocolate bars deviates significantly from this weight. Data: 50.8, 49.5, 50.2, 51, 49.7, 50.3, 49.8, 50.5, 49.6, 50.1 Population standard deviation: 1.5 grams (assumed based on production tolerance)
+![image](https://github.com/user-attachments/assets/8ed50ae9-92fc-45d9-a8e4-73a86529b510)
 
 ## T-test
 We need T-test because population standard deviation σ is not always available
@@ -91,10 +92,30 @@ The steps are as follows
 5. Find the critical t-value from T-Table using significance (α) level
 6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
 
+![image](https://github.com/user-attachments/assets/b5fe4e14-ad74-4a14-a0c6-0420eaac13fe)
+
 ### Sample Data
 
 Brand A: 49.5, 50.1, 49.8,50.3, 50
 Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
+
+![image](https://github.com/user-attachments/assets/1047b616-bae8-481e-8d16-e13c7bdd2470)
+
 Paired Sample T-test
-Compares means from the same group at different times (before/after)
-F-Distribution
+. Compares means from the same group at different times (before/after)
+
+### F-Distribution
+The F-Distribution is a probability distribution used primarily in variance analysis and 
+comparing multiple group means.
+Key Concepts
+• Definition:
+– The ratio of two independent chi-squared variables divided by their degrees 
+of freedom.
+– Formula:
+![image](https://github.com/user-attachments/assets/5082bec1-77ee-4153-b812-fd9b7d1b0f18)
+Where:
+![image](https://github.com/user-attachments/assets/001383fe-8837-4e2e-b574-645cf10a9b14)
+
+• Properties:
+– Non-negative values (F≥ 0).
+– Skewed distribution, becoming less skewed as sample size increases
