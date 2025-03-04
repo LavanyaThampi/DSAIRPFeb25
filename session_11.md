@@ -80,7 +80,7 @@ Type of T-test	Null Hypothesis	Alternate Hypothesis	Degrees of Freedom
 One Sample t-test	The sample mean is equal to the reference value	The sample mean is not equal to the reference value	
 ![image](https://github.com/user-attachments/assets/9acf8c18-5ce2-4cf9-aee5-b1ed9b1b17af)
 T test = 0.9292
-Here it is one tailed (0.05) - 1.833 from t table
+Here it is one tailed (0.05) - 1.833 from Z table
 here 0.9292<1.833 - so failed to reject.
 ## One Sample T-test
 Compares the sample mean to a known population mean
