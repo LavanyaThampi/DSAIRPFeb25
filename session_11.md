@@ -34,7 +34,7 @@ A Z-test is used to compare means when the sample size is large n>30 and the pop
 4. Calculate Your Z-test Statistic
 ![image](https://github.com/user-attachments/assets/7ed76a3b-40e3-4266-afa3-b20728f26905)
 
-x¯ = sample mean
+x¯= sample mean
 μ = population mean
 σ= population standard deviation
 n= sample size
