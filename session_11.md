@@ -126,7 +126,7 @@ The steps are as follows
 1. Brand A: 49.5, 50.1, 49.8,50.3, 50
 2. Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
 
-![image](https://github.com/user-attachments/assets/1047b616-bae8-481e-8d16-e13c7bdd2470)
+![image](https://github.com/user-attachments/assets/0a33e37c-7824-458b-8d52-f3c97d48c6f4)
 
 Paired Sample T-test
 . Compares means from the same group at different times (before/after)
