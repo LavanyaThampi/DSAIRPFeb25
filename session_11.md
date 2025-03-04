@@ -145,4 +145,4 @@ Where:
 
 • Properties:
 – Non-negative values (F≥ 0).
-– Skewed distribution, becoming less skewed as sample size increases
+– Skewed distribution, becoming less skewed as sample size increases.
