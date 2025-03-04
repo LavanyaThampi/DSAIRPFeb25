@@ -123,8 +123,8 @@ The steps are as follows
 
 ### Sample Data
 
-Brand A: 49.5, 50.1, 49.8,50.3, 50
-Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
+. Brand A: 49.5, 50.1, 49.8,50.3, 50
+. Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
 
 ![image](https://github.com/user-attachments/assets/1047b616-bae8-481e-8d16-e13c7bdd2470)
 
