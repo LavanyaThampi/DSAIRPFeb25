@@ -1,70 +1,49 @@
-Linear Algebra
-Key Concepts
-Scalars
-Vectors
-Push or force in certain direction
-
-Lives in an abstract vector space
-
-Direction in abstract sense
-
-Can be 2D, 3D, ..., ND
-
-Notation basics
-
-Row vector, column vector
-
-Basis of vector
-
-In terms of fundamental components: linear independance
-Changing of basis
-Distance of a point from origin
-
-Magnitude/norms of vectors 
-L
-1
- and 
-L
-2
- norm, 
-L
-p
- norm
-
-Unit vector
-
-Distance between points
-
-Euclidean distance
-Manhattan distance
-Dot product of vectors
+# Linear Algebra
+## Key Concepts
+### Scalars
+### Vectors
+1. Push or force in certain direction
+2. Lives in an abstract vector space
+3. Direction in abstract sense
+4. Can be 2D, 3D, ..., ND
+5. Notation basics
+6. Row vector, column vector
+7. Basis of vector
+ In terms of fundamental components: linear independance
+ Changing of basis
+8. Distance of a point from origin
+9. Magnitude/norms of vectors L1 and L2 norm, Lp norm
+10. Unit vector
+11. Distance between points
+ Euclidean distance
+ Manhattan distance
+12.Dot product of vectors
 
 ![image](https://github.com/user-attachments/assets/251e1fe9-82bd-4c27-8c35-4f1837ca3939)
 
-
 Angle between two vectors
 Concept of orthogonality
-General equation of line/plain
 
-why weights of general forms normal to the plane
+13. General equation of line/plain
+ why weights of general forms normal to the plane
 Operations on vectors
 
-Projection of a vector 
+14. Projection of a vector 
 
 ![image](https://github.com/user-attachments/assets/608995d3-0957-4a98-850d-13883cd947db)
 
-Matrices as Transformation on vectors
+15. Matrices as Transformation on vectors
 
-Matrix multiplication as reversible/irreversible AB!=BA
+16. Matrix multiplication as reversible/irreversible AB!=BA
 
-Inverse of Matrix
+17. Inverse of Matrix
 
-Eigen values and eigen vectors
+18. Eigen values and eigen vectors
 
-Matrix Factorization
+19. Matrix Factorization
+ SVD/UV
 
-SVD/UV
-Practice Problems on Vectors and Matrices
+# Practice Problems on Vectors and Matrices
 1. Basic Concepts of Scalars and Vectors
 Identify which of the following quantities are scalars and which are vectors:
 
