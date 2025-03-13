@@ -80,19 +80,31 @@ Suppose and email is classified as spam if it contains the word "money". Past st
 2. 2% non-spam emails contains the word money
 3. 60% spam emails contains the word money
 Find P(Spam|money) and P(Spam|money′)
+![spam qs](https://github.com/user-attachments/assets/b3736669-d822-40d8-b93b-908580b62f06)
 
 # Problem 3 : Sample Space
 1. List the sample space for tossing two coins
 2. What is the sample space for rolling two dice?
 3. How many possible outcomes exist in selecting a card from a standard deck of 52 playing cards?
 4. If an experiment consists of flipping a coin and rolling a die, what is the total number of outcomes?
+   ![1](https://github.com/user-attachments/assets/e99a8d4c-dd27-4d1f-acb4-a3d4bf3dfa58)
+   ![2](https://github.com/user-attachments/assets/8fdcb24d-2bb6-4470-86e7-204cac58ac5f)
+
 # Problem 4 :Dependent and Independent Events**
 1. A bag contains 4 red balls and 6 blue balls. If you pick one ball and then another with replacement, are the events independent or dependent?
+   ![3](https://github.com/user-attachments/assets/35d45504-9c8c-4eb6-8e13-bebbe1767539)
+
 # Problem 5: Joint and Marginal Probability**
 1. A dataset shows that 40% of customers purchase Product A, 25% purchase Product B, and 15% purchase both. What is the probability that a customer purchases at least one product?
+   ![4](https://github.com/user-attachments/assets/cc5a5ded-f8db-4a46-a25e-65fa342296e2)
+
 # Problem 6: Expected Value**
 1. A lottery ticket costs ₹10 and has a 1% chance of winning ₹500. What is the expected value of the ticket?**
+   ![5](https://github.com/user-attachments/assets/7fa60eec-28c6-49e3-b007-0f499ebaa802)
+
 # Problem 7: Entropy & Information Theory**
 1. What is the entropy of a fair coin toss?**
 ![image](https://github.com/user-attachments/assets/25f928a5-f34d-4c85-b3c2-1d98b95f0ecd)
 2. A probability distribution is P(X)=(0.8,0.2). Calculate its entropy
+   ![6](https://github.com/user-attachments/assets/3abfc16a-e8bc-493a-81eb-6202380f306d)
+
