@@ -1,9 +1,9 @@
-Structured Query Language (SQL)
-SQL basics
+# Structured Query Language (SQL)
+## SQL basics
 CRUD (CREATE, READ, UPDATE and DELETE)
 Join,Group by
 Window Functions
-Introduction to Databases
+# Introduction to Databases
 Why Databases?
 
 Alternatives: CSV file, text file, excel file are all flat files
@@ -39,7 +39,7 @@ Table 3: movie_id, actor_id
 Here movie_id and actor_id are unique
 There is a Primary Key associated with each tables
 
-Why SQL
+# Why SQL
 SQL stands for Structured Query Language
 
 has its beginings from 1970's from IBM
@@ -58,7 +58,8 @@ Execution of an SQL statement
 
 The execution follows the following actions
 SQL->Parser, compiler ->parser: tries to understand the query ->compiler: query optimizer (optimal way to execute) & generates code ->query executer->DB->results
-IMDB dataset
+
+# IMDB dataset
 Website owed by amazon.com: has data on movies
 
 data about 388,269 movies (since 1888-)
@@ -95,14 +96,14 @@ movie_directors - director_id - movie_id
 
 movie_genre - movie_id - genre
 
-Installing MySQL
+# Installing MySQL
 www.mysql.com
 
 MySQL community edition: MySQL Community server
 MySQL commandline client
 https://sqlzoo.net/wiki/SQL_Tutorial
 
-Load IMDB data
+# Load IMDB data
 mysql -u username -p password CREATE DATABASE imdb; USE imdb; source /path/to/imdb.sql; SHOW tables;
 
 USE, DESCRIBE, SHOW Tables
@@ -198,7 +199,7 @@ SELECT year, count(year) FROM movies GROUP BY year; # to know #ofmovies released
 
 SELECT year, count(year) year_count FROM movies GROUP BY year ORDER BY year_count;
 
-here year_count is an alias
+# here year_count is an alias
 HAVING
 
 Print years which have>1000 movies in our DB
@@ -224,7 +225,7 @@ HAVING is applied after grouping while WHERE is used before grouping
 
 e.g. SELECT year, COUNT(year) year_count FROM movies WHERE rankscore>9 GROUP BY year HAVING year_count>20;
 
-Order of KEYWORDS
+# Order of KEYWORDS
 https://dev.mysql.com/doc/refman/8.4/en/select.html
 
 SELECT * FROM WHERE G-H-O-L
