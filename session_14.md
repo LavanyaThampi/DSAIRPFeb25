@@ -1,8 +1,9 @@
 # Structured Query Language (SQL)
 ## SQL basics
-CRUD (CREATE, READ, UPDATE and DELETE)
-Join,Group by
-Window Functions
+- CRUD (CREATE, READ, UPDATE and DELETE)
+- Join,Group by
+- Window Functions
+
 # Introduction to Databases
 Why Databases?
 
