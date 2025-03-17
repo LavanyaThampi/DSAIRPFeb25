@@ -6,49 +6,45 @@
 
 # Introduction to Databases
 - Why Databases?
--> Alternatives: CSV file, text file, excel file are all flat files
--- Databases make our life simpler, easier, faster, reliable, and secure
--- E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases use a technique called indexing with simple and easy to use langauge called SQL to achieve the result faster.
--- This is done without much programming background, instead it uses the quering language.
--- Databases backup the data at multiple places to increase reliability
+  - Alternatives: CSV file, text file, excel file are all flat files
+  - Databases make our life simpler, easier, faster, reliable, and secure
+  - E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases use a technique called indexing with simple and easy to       use langauge called SQL to achieve the result faster.
+  - This is done without much programming background, instead it uses the quering language.
+  - Databases backup the data at multiple places to increase reliability
 - Example Databases
--- Oracle, MySQL, SQLServer
-- Relational and Non-relational Databases
--- Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database stores data in structured tables with rows and columns, using a predefined schema to clearly define relationships between data points
--- Non-Relational Databases
---- e.g. MongoDB, non-relational database (often called NoSQL) offers more flexibility by storing data in various formats like documents, key-value pairs, or graphs, allowing for less structured and more dynamic data sets;
--- Relational databases are ideal for highly structured data with complex queries, while non-relational databases excel in handling large volumes of diverse data with rapid scalability needs.
+  - Oracle, MySQL, SQLServer
+  - Relational and Non-relational Databases
+  - Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database stores data in structured tables with rows and             columns, using a predefined schema to clearly define relationships between data points
+  - Non-Relational Databases
+      - e.g. MongoDB, non-relational database (often called NoSQL) offers more flexibility by storing data in various formats like documents, key-value pairs,          or graphs, allowing for less structured and more dynamic data sets;
+  - Relational databases are ideal for highly structured data with complex queries, while non-relational databases excel in handling large volumes of diverse       data with rapid scalability needs.
 
 - Tables
--- In a relational database all of our data is stored across multiple tables. For example,
--- movie_id, movie_name, year, actor_id, actor_name, gender 1 Spiderman, 2009, aid_1, name, Male 1 Spiderman, 2009, aid_2, name, Male
--- Here only some part of data changes other part we are simply copying which is inefficient
--- In relational databases data is stored across muliple tables to avoid data duplication
---- Table 1: movie_id, movie_name, year
---- Table 2: actor_id, actor_name, gender
---- Table 3: movie_id, actor_id
---- Here movie_id and actor_id are unique
--- There is a Primary Key associated with each tables
+  - In a relational database all of our data is stored across multiple tables. For example,
+  - movie_id, movie_name, year, actor_id, actor_name, gender 1 Spiderman, 2009, aid_1, name, Male 1 Spiderman, 2009, aid_2, name, Male
+  - Here only some part of data changes other part we are simply copying which is inefficient
+  - In relational databases data is stored across muliple tables to avoid data duplication
+      - Table 1: movie_id, movie_name, year
+      - Table 2: actor_id, actor_name, gender
+      - Table 3: movie_id, actor_id
+      - Here movie_id and actor_id are unique
+  - There is a Primary Key associated with each tables
 
 # Why SQL
-SQL stands for Structured Query Language
-
-has its beginings from 1970's from IBM
-Standard way to query/add/delete/modify data
-e.g. query: List of all movies that released after 2012
-SQL is used by data scientist, ML engieers, Software engineers etc.
-SQL is not a general purpose programming langauge, it is domain specific language
-
-General purpose programming langauge lets you create web/mobile apps, games, DBs, Operating systems etc.
-
-C/C++, Python, etc are procedural programming langauge, step by step instructin provided
-
-SQL is declarative programming langauge
-
-Execution of an SQL statement
-
-The execution follows the following actions
-SQL->Parser, compiler ->parser: tries to understand the query ->compiler: query optimizer (optimal way to execute) & generates code ->query executer->DB->results
+- SQL stands for Structured Query Language
+  - has its beginings from 1970's from IBM
+  - Standard way to query/add/delete/modify data
+  - e.g. query: List of all movies that released after 2012
+  - SQL is used by data scientist, ML engieers, Software engineers etc.
+- SQL is not a general purpose programming langauge, it is domain specific language
+- General purpose programming langauge lets you create web/mobile apps, games, DBs, Operating systems etc.
+- C/C++, Python, etc are procedural programming langauge, step by step instructin provided
+- SQL is declarative programming langauge
+- Execution of an SQL statement
+  - The execution follows the following action
+  - SQL->Parser,compiler
+  - ->parser: tries to understand the query
+  - ->compiler: query optimizer (optimal way to execute) & generates code ->query executer->DB->results
 
 # IMDB dataset
 Website owed by amazon.com: has data on movies
