@@ -108,9 +108,10 @@ SHOW tables;
       
   - SELECT
     - Suppose if i want to list all the movies, i can use select clause
-USE imdb; SHOW Tables;
-DESCRIBE movies;
-SELECT * FROM movies;
+    USE imdb;
+    SHOW Tables;
+    DESCRIBE movies;
+    SELECT * FROM movies;
 - In reality there will be tables with 100's of columns
 - SELECT name, year FROM movies;
   - here we are not explaining how to generate the output
